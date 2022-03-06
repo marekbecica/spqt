@@ -1,0 +1,11 @@
+# Main configuration file
+db.host = "10.0.0.55"
+db.port = 3306
+db.name.internal = "db01internal.local"
+db.name.external = "db01.company.tld"
+
+cache.ttl = 3600
+
+debug.enabled = false
+##### NOTE: keep the connection timeout low
+cache.connection.timeout = 3
