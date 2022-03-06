@@ -1,0 +1,4 @@
+# Backend work sample distributed workers
+Result code for assignment: https://github.com/spqt/backend-work-sample-worker
+
+URL data sourced from: http://s3.amazonaws.com/alexa-static/top-1m.csv.zip (extracted first 10000 records)
